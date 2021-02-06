@@ -1,0 +1,29 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    # Weibo: http://weibo.com/loo2k
+    # GitHub: https://github.com/loo2k
+    About: /about.html
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus: lukesign
+duoshuo:
+
+# Analytics
+# google-analytics:
+# ga: UA-65933410-1
+# baidu-analytics:
+ba: //hm.baidu.com/hm.js?99186e744f2409381dec161e285a4e39
+
+# Copyright Infomation
+startyear: 2008
+
+# Font CDN
+#true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor
+#false: use useso fonts api instead of google's, great response speed for chinese visitor
+googlefonts: true
